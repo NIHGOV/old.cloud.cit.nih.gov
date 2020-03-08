@@ -19,4 +19,4 @@ NIH and the STRIDES Initiative partners have dedicated teams to help institution
 
 ## What's Next?
 
-If you have questions or would like more information on how to get started, please contact the NIH STRIDES Initiative team at STRIDES@nih.gov. They can help connect you with the points of contact for AWS and Google Cloud and provide you with the most relevant materials to help you get onboarded smoothly with the STRIDES Initiative.
+If you have questions or would like more information on how to get started, please contact the NIH STRIDES Initiative team at [STRIDES@nih.gov](mailto:STRIDES@nih.gov). They can help connect you with the points of contact for AWS and Google Cloud and provide you with the most relevant materials to help you get onboarded smoothly with the STRIDES Initiative.
